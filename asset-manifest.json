@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Birthday-Alert/static/css/main.b5d0763e.css",
+    "main.js": "/Birthday-Alert/static/js/main.9adf4146.js",
+    "static/js/787.6609b868.chunk.js": "/Birthday-Alert/static/js/787.6609b868.chunk.js",
+    "index.html": "/Birthday-Alert/index.html",
+    "main.b5d0763e.css.map": "/Birthday-Alert/static/css/main.b5d0763e.css.map",
+    "main.9adf4146.js.map": "/Birthday-Alert/static/js/main.9adf4146.js.map",
+    "787.6609b868.chunk.js.map": "/Birthday-Alert/static/js/787.6609b868.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5d0763e.css",
+    "static/js/main.9adf4146.js"
+  ]
+}
